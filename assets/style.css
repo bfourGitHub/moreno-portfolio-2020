@@ -7,13 +7,13 @@ head title {
 
 body {
     
-    background-color: rgb(146, 167, 187);
+    background-color: seashell;
     
 }
 
 header {
 
-    background-color: blue;
+    background-color: rgb(179, 173, 230);
     display: flex;
 
 }
