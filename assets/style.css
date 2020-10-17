@@ -1,4 +1,55 @@
+head title {
+    text-align: left;
+    color: seashell;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
 
 body {
-    background-color: red;
+    
+    background-color: rgb(146, 167, 187);
+    
 }
+
+header {
+
+    background-color: blue;
+    display: flex;
+
+}
+
+header title {
+
+    text-align: left;
+    color: seashell;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 46px;
+    margin: 25px;
+    float: right;
+    display: flex;
+    border: gray;
+    border-style: groove;
+
+
+}
+
+header nav {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    margin: 25px;
+    float: left;
+    
+    list-style-type: none;
+
+}
+
+header nav a {
+
+    margin-left: 25px;
+    color: slategrey;
+    text-decoration: none;   
+
+}
+
+
