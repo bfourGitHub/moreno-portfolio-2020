@@ -38,8 +38,9 @@ header nav {
 
     font-family: Arial, Helvetica, sans-serif;
     font-size: 32px;
+    display: flex;
+    align-items: center;
     margin: 25px;
-    float: left;
     
     list-style-type: none;
 
@@ -53,4 +54,14 @@ header nav a {
 
 }
 
+.london-skyline {
+
+    height: 525px;
+    width: 100%;
+    margin-bottom: 20px;
+    background-image: url("./images/london-skyline.jpg");
+    background-size: cover;
+    background-position: center;
+
+}
 
