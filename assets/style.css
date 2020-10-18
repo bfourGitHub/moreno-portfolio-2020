@@ -15,6 +15,7 @@ header {
 
     background-color: rgb(179, 173, 230);
     display: flex;
+    justify-content: space-between;
 
 }
 
